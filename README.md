@@ -18,23 +18,9 @@ This repository contains a **machine learning project** focused on predicting th
 ## 🔗 Dataset
 The dataset used for this project is publicly available on Kaggle:
 [Spotify Tracks Dataset](https://www.kaggle.com/datasets/maharshipandya/-spotify-tracks-dataset/data)
+The downloaded dataset has also been added to this repository
 
-## 🚀 Installation
-
-Clone this repository and install the required dependencies:
-```bash
-git clone https://github.com/yourusername/song-popularity-prediction.git
-cd song-popularity-prediction
-pip install -r requirements.txt
-```
-
-## 🛠️ Usage
-Run the complete analysis by executing the following command:
-```bash
-python song_popularity_analysis.py
-```
-
-## 📊 Machine Learning Models
+## Machine Learning Models
 
 This project applies multiple machine learning models to classify song popularity:
 
@@ -51,24 +37,10 @@ This project applies multiple machine learning models to classify song popularit
 - **LSTM performed well for sequential dependencies but struggled with binary classification.**
 - **Feature selection and normalization significantly improved model performance.**
 
-## 🖼️ Visualizations
+## Visualizations
 
 - **ROC Curves** to compare model performance.
 - **Actual vs. Predicted Scatterplots** for evaluating regression-based models.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Contributing
-
-Contributions are welcome! Feel free to open issues or submit pull requests to improve the project.
-
-## Contact
-
-For inquiries, please reach out via [your email] or create an issue in the repository.
-
----
 
 **Song Popularity Prediction** - Predicting music trends with machine learning!
 
